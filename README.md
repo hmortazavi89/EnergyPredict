@@ -42,10 +42,6 @@ pip install pandas numpy scikit-learn xgboost tensorflow matplotlib seaborn
 
 
 
-Run the Python script:
-
-python energy_consumption_prediction.py
-
 Results
 
 
